@@ -1,2 +1,2 @@
-# sma
-sistemas multi agentes
+# Sistemas Multi Agentes
+Projeto da disciplina
